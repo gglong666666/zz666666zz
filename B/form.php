@@ -32,7 +32,7 @@
 
   while($numA * $numB == ".$resultA." ".$resultB.")
    {
-      echo "$numA * $numB == ".$resultA." ".$resultB." 是巧合數噢";
+      echo "$numA * $numB == $end 是巧合數噢";
    }
 ?>  
 <html>  
